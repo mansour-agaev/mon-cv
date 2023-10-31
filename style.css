@@ -1,0 +1,40 @@
+h1{
+    color:rgb(69, 90, 83);
+    
+}
+p {
+    font-size:22px ;
+}
+ul {
+    font-size: 20px;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/background/20210706/original/pngtree-job-recruitment-poster-advertisement-advertising-posters-picture-image_268513.jpg");
+background-repeat:no repeat;
+background-size: cover;
+background-position:center;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/background/20210706/original/pngtree-job-recruitment-poster-advertisement-advertising-posters-picture-image_268513.jpg");
+background-repeat:no repeat;
+background-size: cover;
+background-position:center;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/background/20210706/original/pngtree-job-recruitment-poster-advertisement-advertising-posters-picture-image_268513.jpg");
+background-repeat:no repeat;
+background-size: cover;
+background-position:center;
+}
+
+* {
+    border: 1px rgb(21, 130, 130);
+     
+   }  
+
+   body	{
+    padding-left:270px;
+}
